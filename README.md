@@ -6,7 +6,7 @@ This repository of tests given scenarios
 
 System Setup
 ============
-Ensure Java & Maven latest is availabe on target machine
+Ensure Java & Maven latest is available on target machine
 Chrome web browser v85.0 available
 Clone the following repository:
  * git clone https://github.com/kalivallepu/AutomationTasksCBA
@@ -16,6 +16,11 @@ Execution:
 Open command line and go to the project root directory,run the following command: 
 
 ```mvn clean test```
+
+Execution Results:
+==================
+
+Generated output files are saved in target folder
 
 Author
 ======
