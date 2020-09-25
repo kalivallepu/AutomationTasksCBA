@@ -1,0 +1,8 @@
+BorrowingAmount,400000
+LoanTerm,25
+RepaymentType,Interest only 2 years
+ProductId,2.69% p.a. Extra Home Loan 20% deposit
+TotalRepayments,562854
+TotalInterestCharged,162854
+MonthlyRepayment,1084
+MonthlyRepaymentsAfterInterestPeriodEnds,1946
